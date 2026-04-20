@@ -31,6 +31,3 @@ Managing imbalance in the dataset
 - Check for the imbalance.
 - Use the resampling strategies used in class for upsampling and downsampling to create a balance between the two classes.
 - Each time fit the model and see how the accuracy of the model is.
-
-
-
